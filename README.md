@@ -81,14 +81,14 @@
 
 - `jielongwu58@gmail.com`
 
----
 
-## GitHub 统计
+## 开发概览
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiaowuDev&show_icons=true&locale=zh-CN&layout=compact" alt="xiaowuDev" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiaowuDev&layout=compact&locale=cn&theme=transparent&hide_border=true" alt="xiaowuDev" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaowuDev&show_icons=true&locale=zh-CN" alt="xiaowuDev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaowuDev&show_icons=true&locale=cn&theme=transparent&hide_border=true" alt="xiaowuDev" />
 </p>
+
